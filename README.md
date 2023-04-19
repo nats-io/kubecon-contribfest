@@ -32,3 +32,8 @@ go test ./... -race --count=1 -p=1 -modfile=go_test.mod
 
 Notice the `-modfile=go_test.mod`, we do this to be able to split test dependencies notably the NATS Server.
 This way we avoid the client depending on the server (which itself depends on the nats.go client 🌀.
+
+## Slack 
+
+Join the NATS community Slack channel! https://nats.io/community/
+There you can find a `#kubecon-contribfest` channel for this session.
