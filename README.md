@@ -2,6 +2,12 @@
 
 Let's work on the NATS Go client!
 
+## Slides
+
+<img width="675" alt="image" src="https://user-images.githubusercontent.com/26195/233014806-17739e8c-d3c0-4660-8be0-82ca268baa0f.png">
+
+https://docs.google.com/presentation/d/1SSCq53PMCd65pKsx3TZcAi19Huz0PGmdY4GuMex2ppc/edit?usp=sharing
+
 ## Getting started 
 
 First, you will need to clone the NATS go repository:
